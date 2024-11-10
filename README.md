@@ -4,4 +4,5 @@ This was the last tutorial exercise for the beginner react class. A fun dice thr
 
 Clicking on the buttons will stop them from rolling a random dice at the push of 'roll dice'.
 
-![image](https://github.com/user-attachments/assets/320b0ad3-f706-46a9-b1f2-b2e6c4620d40)
+![image](https://github.com/user-attachments/assets/b1c50b93-20a6-4c09-8ea3-63f16078aff2)
+
